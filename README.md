@@ -1,8 +1,16 @@
 ## Project Ringkasan
 
-**Nama Proyek**: auth-api
+**Nama Proyek**: Laravel Auth
 
 Aplikasi ini adalah API otentikasi sederhana berbasis Laravel yang menggunakan Sanctum untuk manajemen token. Fungsionalitas utama: pendaftaran (`register`), masuk (`login`), logout, dan endpoint profil yang membutuhkan token.
+
+## Dibuat Oleh
+
+- **Nama**: Muhammad Rakha Syamputra
+- **NPM**: 23010631250024
+- **Kelas**: 6A Sistem Informasi
+
+**Laporan lengkap**: [Klik di sini](https://drive.google.com/file/d/1kQIJwzmwT0yXejMHewbD2N8UH2xXbA1F/view?usp=drive_link)
 
 ## Endpoint API
 
@@ -66,18 +74,8 @@ npm run dev
 4. Jalankan server development:
 
 ```bash
-php -f "c:\\Users\\Rakha\\OneDrive\\Documents\\WSA\\auth-api\\artisan" serve --host=127.0.0.1 --port=8000
+php artisan serve
 ```
-
-## Informasi Tugas Praktikum WSA
-
-Silakan lengkapi informasi tugas praktikum di bagian ini:
-
-- **Nama**: Muhammad Rakha Syamputra
-- **NPM**: 23010631250024
-- **Kelas**: 6A Sistem Informasi
-
-**Laporan lengkap**: [Laporan Praktikum WSA - M Rakha Syamputra.docx](Laporan/Laporan%20Praktikum%20WSA%20-%20M%20Rakha%20Syamputra.docx)
 
 ## Lisensi
 

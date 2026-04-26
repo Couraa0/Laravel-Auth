@@ -77,6 +77,8 @@ Silakan lengkapi informasi tugas praktikum di bagian ini:
 - **NPM**: 23010631250024
 - **Kelas**: 6A Sistem Informasi
 
+**Laporan lengkap**: [Laporan Praktikum WSA - M Rakha Syamputra.docx](Laporan/Laporan%20Praktikum%20WSA%20-%20M%20Rakha%20Syamputra.docx)
+
 ## Lisensi
 
 Proyek mengikuti lisensi MIT (sesuai dependensi Laravel dan paket terkait).
